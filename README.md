@@ -66,7 +66,7 @@ ClaimSync is hosted and accessible via:
 ### Steps  
 1. **Clone the repository**  
    ```sh  
-   git clone https://github.com/your-repo/ClaimSync.git  
+   git clone https://github.com/mohankumar01012005/ClaimSync
    cd ClaimSync  
    ```  
 
