@@ -43,7 +43,7 @@ ClaimSync is a comprehensive web application designed to streamline the insuranc
 
 ## 🛠️ Tech Stack  
 - **Frontend**: React.js (MUI for UI Components)  
-- **Backend**: NestJS (Node.js with Express)  
+- **Backend**: Node.js with Express
 - **Database**: MongoDB  
 
 
